@@ -1,0 +1,45 @@
+#Header-Title {
+    color: #b400cc;
+    text-align : center;
+
+}
+h2{
+    text-align : center;
+}
+h4{
+    color: hsl(0, 100%, 53%);
+    text-align: center;
+    font-size: 20px;
+}
+body{
+    font-family: Arial;
+}
+#About{
+    color:rgb(8, 107, 219);
+}
+#Profile{
+    width: 200px;
+    height:200px;
+    border-radius:20px ;
+}
+
+#a{ 
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: flex-start;
+    color: rgb(44, 9, 201);
+}
+#projects{
+    margin-top: 20px;
+    text-align: center;
+}
+#MyHobbies{
+background-color: rgb(175, 167, 167);
+height: 10rem;
+color:black;
+margin-left: 1rem;
+padding: 0.2rem 0.8rem;
+border-radius: 1rem;
+
+}   
